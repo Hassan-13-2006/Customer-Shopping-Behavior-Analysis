@@ -38,6 +38,17 @@ This project analyzes customer shopping behavior using Python, PostgreSQL, and P
 ## Important Note
 This dataset contains 3,900 customer purchase records, with one record per customer. Purchase totals represent the recorded amounts in this dataset and should not be interpreted as verified business revenue or lifetime customer spend. Customer segments are defined using previous purchase counts.
 
+## Power BI Dashboard Preview
+
+### 1. Customer Shopping Behavior Analysis
+
+![Main Dashboard](customer_shopping_dashboard.png)
+
+### 2. Customer Insights & Purchasing Patterns
+
+![Customer Insights Dashboard](customer_insights_dashboard.png)
+
+
 ## Author
 **Hassan Khan**
 
